@@ -1,0 +1,5 @@
+﻿ts,conditie,home,away,liga,prob_o,prob_u,cota_o,cota_u,edge_o,edge_u,ev_o,ev_u,kelly_o,kelly_u,stake_o,stake_u,best_side,best_stake,bankroll,fractie_kelly,value,bettable,decision
+01.05.2026 12:22,Over/Under 1.5,Anderlecht,Cercle Brugge,BEL-Jupiler Pro,0.847,0.153,1.9,1.9,0.347,-0.347,0.609,-0.709,0.3,0.0,7.5,0.0,Over,7.5,100,0.25,True,True,BET
+01.05.2026 12:24,Over/Under 1.5,Leeds,Burnley,ENG-Premier League,0.7804,0.2196,1.9,1.9,0.2804,-0.2804,0.483,-0.583,0.3,0.0,7.5,0.0,Over,7.5,100,0.25,True,True,BET
+01.05.2026 12:24,Over/Under 1.5,Girona,Malaga,ESP-La Liga,0.7353,0.2647,1.9,1.9,0.2353,-0.2353,0.397,-0.497,0.3,0.0,7.5,0.0,Over,7.5,100,0.25,True,True,BET
+01.05.2026 12:24,Over/Under 3.5,Girona,Malaga,ESP-La Liga,0.2794,0.7206,1.9,1.9,-0.2206,0.2206,-0.469,0.369,0.0,0.3,0.0,7.5,Under,7.5,100,0.25,True,True,BET
